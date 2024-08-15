@@ -1,3 +1,0 @@
-/home/mingze/文档/Projects/opencv_test1/build/CMakeFiles/opencv_test1_camera.dir
-/home/mingze/文档/Projects/opencv_test1/build/CMakeFiles/edit_cache.dir
-/home/mingze/文档/Projects/opencv_test1/build/CMakeFiles/rebuild_cache.dir
